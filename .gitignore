@@ -2,3 +2,4 @@ venv
 .env
 logs
 venv1
+artifacts
